@@ -1,13 +1,18 @@
 # Pro-7-PrcMon
 This project is used to perform process monitoring activity. - By using this project we can retrieve all necessary information about the process and its dependencies. 
 
-##Platform required   Windows NT platform
+# Platform required  
+  -Windows NT platform
 
-##Architectural requirement  Intel 32 bit processor 
-##User Interface  Command User Interface   SDK used   WIN32 SDK 
-##API level  32 bit API 
-#Technology used   Windows Programming using C (WIN32 SDK) 
-##Features provided by ProcMon 
+# Architectural requirement  
+  -Intel 32 bit processor 
+# User Interface  Command User Interface   
+  -SDK used   WIN32 SDK 
+# API level  
+  -32 bit API 
+# Technology used   
+  -Windows Programming using C (WIN32 SDK) 
+# Features provided by ProcMon 
 1. List all names of running processes. 
 2. List all names and PID of running processes. 
 3. List all names of running processes and its attached Modules (DLL). 
